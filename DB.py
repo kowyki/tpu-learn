@@ -3,7 +3,6 @@ import sqlite3
 conn = sqlite3.connect('orders.db')
 cur = conn.cursor()
 
-
 def create():
     import sqlite3
 
@@ -155,16 +154,26 @@ def create():
         ('00099', '2020-08-31', '00017', '169'),
         ('00100', '2020-09-02', '00022', '226')
     ]
+
+def read():
     cur.execute("SELECT * FROM users;")
+    res = cur.fetchall()
+    print(res)
+
+def sql():
+    # cur.execute("SELECT * FROM users;")
+    sq=input("SQL-запрос:")
+    # sql(sq)
+    cur.execute(sq)
     res = cur.fetchall()
     print(res)
 
 i = 0
 while i < 3:
-    i = int(input("1. Скип\n2. Читать ДБ\n3. Выйти\n"))
+    i = int(input("1. SQL-запрос\n2. Читать ДБ\n3. Выйти\n"))
     if i == 1:
-        print()
+        sql()
     elif i == 2:
-        create()
+        read()
     elif i == 3:
         break
