@@ -18,16 +18,16 @@
 ### Задание с логикой 
 [Logic.xlsx](https://github.com/pxnandi/tpu-learn/blob/main/Logic.xlsx)
 
-### Первое задание на Python
+### Перевод в десятичную систему счисления на Python
 [Task1.py](https://github.com/pxnandi/tpu-learn/blob/main/Task1.py)
 
-### Второе задание на Python
+### Перевод из десятичной в недесятичную систему на Python
 [Task2.py](https://github.com/pxnandi/tpu-learn/blob/main/Task2.py)
 
-### Третье задание на Python
+### Таблица умножения на разных системамх счисления на Python
 [Task3.py](https://github.com/pxnandi/tpu-learn/blob/main/Task3.py)
 
-### Объединение заданий на Python (работает только с цифрами)
+### Кол-во информации и вес на Python (работает только с цифрами)
 [first.py](https://github.com/pxnandi/tpu-learn/blob/main/first.py)
 
 ### Азбука Морзе
