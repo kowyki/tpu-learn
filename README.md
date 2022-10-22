@@ -1,4 +1,41 @@
 # tpu-learn
+## Никитин Павел 122А
 
-# Open Processing
-https://openprocessing.org/user/344180
+### Аккаунты
+[Open Processing](https://openprocessing.org/user/344180)
+
+### Задания ЕГЭ
+[ege](https://github.com/pxnandi/tpu-learn/tree/main/ege)
+
+### База данных
+[DB.py](https://github.com/pxnandi/tpu-learn/blob/main/DB.py)
+
+### Код Хэмминга
+[Hamming.ipynb](https://github.com/pxnandi/tpu-learn/blob/main/Hamming.ipynb)
+
+### Задание с логикой 
+[Logic.xlsx](https://github.com/pxnandi/tpu-learn/blob/main/Logic.xlsx)
+
+### Первое задание на Python
+[Task1.py](https://github.com/pxnandi/tpu-learn/blob/main/Task1.py)
+
+### Второе задание на Python
+[Task2.py](https://github.com/pxnandi/tpu-learn/blob/main/Task2.py)
+
+### Третье задание на Python
+[Task3.py](https://github.com/pxnandi/tpu-learn/blob/main/Task3.py)
+
+### Объединение заданий на Python (работает только с цифрами)
+[first.py](https://github.com/pxnandi/tpu-learn/blob/main/first.py)
+
+### Азбука Морзе
+[morze.xlsx](https://github.com/pxnandi/tpu-learn/blob/main/morze.xlsx)
+
+### Объединение знаний по Python
+[python.ipynb](https://github.com/pxnandi/tpu-learn/blob/main/python.ipynb)
+
+### Системы счисления
+[Перевод систем счисления.xlsx](https://github.com/pxnandi/tpu-learn/blob/main/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.xlsx)
+
+### Таблица умножения для разных систем
+[Таблица умножения.xlsm](https://github.com/pxnandi/tpu-learn/blob/main/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%83%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.xlsm)
