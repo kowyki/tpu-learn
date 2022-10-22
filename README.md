@@ -2,8 +2,8 @@
 ## Никитин Павел 122А
 
 ### Аккаунты
-[Wordpress](https://pxnandi.wordpress.com)
-[Open Processing](https://openprocessing.org/user/344180)
+[Wordpress](https://pxnandi.wordpress.com)<br/>
+[Open Processing](https://openprocessing.org/user/344180)<br/>
 [Codepen](https://codepen.io/pxnandi/pen/vYjoabO)
 
 ### Задания ЕГЭ
