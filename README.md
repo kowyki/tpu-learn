@@ -2,7 +2,9 @@
 ## Никитин Павел 122А
 
 ### Аккаунты
+[Wordpress](https://pxnandi.wordpress.com)
 [Open Processing](https://openprocessing.org/user/344180)
+[Codepen](https://codepen.io/pxnandi/pen/vYjoabO)
 
 ### Задания ЕГЭ
 [ege](https://github.com/pxnandi/tpu-learn/tree/main/ege)
