@@ -18,10 +18,10 @@
 ### Задание с логикой 
 [Logic.xlsx](https://github.com/pxnandi/tpu-learn/blob/main/Logic.xlsx)
 
-### Перевод в десятичную систему счисления на Python
+### Перевод в десятичную систему на Python
 [Task1.py](https://github.com/pxnandi/tpu-learn/blob/main/Task1.py)
 
-### Перевод из десятичной в недесятичную систему на Python
+### Перевод из десятичной системы на Python
 [Task2.py](https://github.com/pxnandi/tpu-learn/blob/main/Task2.py)
 
 ### Таблица умножения на разных системамх счисления на Python
