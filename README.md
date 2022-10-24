@@ -44,3 +44,6 @@
 
 ### Задание с таблицами логики Python
 [xyzw.py](https://github.com/pxnandi/tpu-learn/blob/main/xyzw.py)
+
+### Закрашивание с помощью автокликера
+[DUCK.png](https://github.com/pxnandi/tpu-learn/blob/main/DUCK.png)
