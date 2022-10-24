@@ -47,3 +47,10 @@
 
 ### Закрашивание с помощью автокликера
 [DUCK.png](https://github.com/pxnandi/tpu-learn/blob/main/DUCK.png)
+
+### Команды для БД
+* `SHOW TABLES` выведет названия таблиц
+* `SELECT * FROM users` вывод всех пользователей
+* `SELECT * FROM users` вывод всех оценок
+* `SELECT * FROM users WHERE name = 'Павел' and fam = 'Никитин'` вывод себя в базе данных
+* `SELECT * FROM users, grades WHERE users.user_id = grades.user_id` вывод учеников с оценками
