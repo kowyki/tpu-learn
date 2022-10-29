@@ -54,3 +54,6 @@
 * `SELECT * FROM grades` вывод всех оценок
 * `SELECT * FROM users WHERE name = 'Павел' AND fam = 'Никитин'` вывод себя в базе данных
 * `SELECT * FROM users, grades WHERE users.user_id = grades.user_id` вывод учеников с оценками
+
+### Закон дистрибутивности (6)
+$$ (A\vee B)\wedge C = (A \wedge C) \vee (B \wedge C) $$
