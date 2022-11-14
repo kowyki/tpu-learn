@@ -61,3 +61,5 @@
 
 Лучшая формула
 $$\bar E_{0}^{2} = \sqrt{\frac{Fa_{0}^{2}}{(x-1) \cdot x}}+\alpha_{1}^{2}+\beta_{1}^{2}$$
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPEfIl0c=/?moveToViewport=-1869,-617,4106,2072&embedId=297961763196" frameborder="0" scrolling="no" allowfullscreen></iframe>
