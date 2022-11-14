@@ -106,3 +106,44 @@ def f12():
             sound()
         case '3':
             picture()
+
+           
+        
+q = input('Выберите тип задачи: \n1. Выбор неизвестного\n2. Выбор известного')
+if q == '2':    
+    A = input('Тип задачи: \n1. Текстовая информация \n2. Звуковая информация \n3. Графическая информация')
+    match A:
+        case '1':   
+            print('Введите значения')
+            I = input('I = ')
+            K = input('K = ')
+            i = input('i = ')
+            N = input('N = ')
+            
+            if i == '' and N != '':
+                i = math.log2(N)
+                print(f'i = {i}')
+            elif i == '' and K != '' and I != '':
+                i = I / K
+                print(f'i = {i}')
+            else:
+                print('Ошибка')
+            
+            if I == '':
+                print(f'I = {K * i}')
+            else:
+                print('Ошибка')
+                
+            if K == '':
+                print(f'K = {I / i}')
+            else:
+                print('Ошибка')
+               
+            if N == '':
+                print(f'N = {2^i}')
+                
+                
+        case '2':
+            sound()
+        case '3':
+            picture()
