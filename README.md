@@ -48,6 +48,9 @@
 ### Закрашивание с помощью автокликера
 [DUCK.png](https://github.com/pxnandi/tpu-learn/blob/main/DUCK.png)
 
+### Слайд-шоу
+[slides.py](https://github.com/pxnandi/tpu-learn/blob/main/slides.py)
+
 ### Команды для БД
 * `SHOW TABLES` выведет названия таблиц
 * `SELECT * FROM users` вывод всех пользователей
