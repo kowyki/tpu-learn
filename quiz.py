@@ -20,10 +20,16 @@ for i in range(len(questions)):
     if int(Ans) != correctAns[i]:
         incAns.append(i)
 
+print(f'Неверных ответов: {len(incAns)}')
+
 while incAns:
     ia = incAns.copy()
+
     for i in range(len(ia)):
         print(questions[ia[i]])
         Ans = input()
+
         if int(Ans) == correctAns[ia[i]]:
             incAns.pop(i)
+
+    print(f'Неверных ответов: {len(incAns)}')
