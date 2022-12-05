@@ -79,26 +79,4 @@ $$\bar E_{0}^{2} = \sqrt{\frac{Fa_{0}^{2}}{(x-1) \cdot x}}+\alpha_{1}^{2}+\beta_
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPEfIl0c=/?moveToViewport=-1869,-617,4106,2072&embedId=297961763196" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<style>
-.button_px {
-    display: inline-block;
-    text-decoration: none;
-    background-color: #eaeaea;
-    color: #293241;
-    border: 3px solid #293241;
-    border-radius: 15px;
-    font-size: 20px;
-    padding: 9px 25px; 
-    transition: all 0.2s ease;
-}
-.button_px:hover{
-    text-decoration: none; 
-    background-color: #293241;
-    color: #ee6c4d;
-    border-color: #293241;
-}
-</style>
-<a href="https://github.com/pxnandi/tpu-learn" class="button_px" target="_blank">
-  GitHub @pxnandi
-</a>
 
