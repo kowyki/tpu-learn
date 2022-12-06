@@ -30,11 +30,10 @@ def mainP():
         endName += Name[i]
 
     print(endName)
-    input()
-    
+
 while True:
     ans = int(input('1. Изменить имя \n2. Выйти \n'))
     if ans == 1:
-            mainP()
+        mainP()
     if ans == 2:
         quit()
