@@ -57,8 +57,11 @@
 ### Создание никнейма
 [names.py](https://github.com/pxnandi/tpu-learn/blob/main/names.py)
 
-### Создание никнейма
+### Викторина
 [quiz.py](https://github.com/pxnandi/tpu-learn/blob/main/quiz.py)
+
+### Смайлик
+[smile.png](https://github.com/pxnandi/tpu-learn/blob/main/smile.png)
 
 ### Нейросети
 [neuronet](https://github.com/pxnandi/tpu-learn/tree/main/neuronet)
