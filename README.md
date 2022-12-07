@@ -60,6 +60,9 @@
 ### Создание никнейма
 [quiz.py](https://github.com/pxnandi/tpu-learn/blob/main/quiz.py)
 
+### Нейросети
+[neuronet](https://github.com/pxnandi/tpu-learn/tree/main/neuronet)
+
 ```mermaid
 flowchart LR
 
