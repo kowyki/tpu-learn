@@ -51,6 +51,9 @@ def Suf(randSuf):
         return random.choice(sufM)
     if randSuf[0] == 'Ж':
         return random.choice(sufW)
+    else:
+        print('Неверный синтаксис \n')
+        start()
 
 # Авторы
 def authors():
@@ -64,8 +67,11 @@ def authors():
 st = input('1. Посмотреть авторов \n2. Пропустить \n')
 if st == '':
     quit()
-if int(st) == 1:
+elif int(st) == 1:
     authors()
+else:
+    print('Неверный синтаксис')
+    quit()
 
 while True:
     start()
