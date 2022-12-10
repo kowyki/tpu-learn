@@ -64,14 +64,19 @@ def authors():
     print('Программист-консультант: Кирилл Малахов')
 
 # Начало программы
-st = input('1. Посмотреть авторов \n2. Пропустить \n')
-if st == '':
-    quit()
-elif int(st) == 1:
-    authors()
-else:
-    print('Неверный синтаксис')
-    quit()
+st = int(input('1. Посмотреть авторов \n2. Пропустить \n'))
+
+match st:
+    case '':
+        quit()
+    case 1:
+        authors()
+    case 2:
+        ...
+    case _:
+        print('Неверный синтаксис')
+        input()
+        quit()
 
 while True:
     start()
