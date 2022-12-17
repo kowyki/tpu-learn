@@ -118,6 +118,7 @@ $$\bar E_{0}^{2} = \sqrt{\frac{Fa_{0}^{2}}{(x-1) \cdot x}}+\alpha_{1}^{2}+\beta_
   GitHub @pxnandi
 </a>
 
+---
 
 | ## | Status |
 | ------ | ------ |
