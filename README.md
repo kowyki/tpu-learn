@@ -117,7 +117,8 @@ $$\bar E_{0}^{2} = \sqrt{\frac{Fa_{0}^{2}}{(x-1) \cdot x}}+\alpha_{1}^{2}+\beta_
 <a href="https://github.com/pxnandi/tpu-learn" class="button_px" target="_blank">
   GitHub @pxnandi
 </a>
-| ЕГЭ |
+
+
 | ## | Status |
 | ------ | ------ |
 | 01 | ... |
