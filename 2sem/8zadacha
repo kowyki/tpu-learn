@@ -1,0 +1,20 @@
+# 8 задача: 8-значное число из 6-ричной системы счисления. Найти все строки где есть 4 и она не стоит рядом с чётным числом, сумма цифр числа - чётное число.
+def test():
+    from itertools import product
+    nums = product('012345', repeat = 8)
+    n1 = '04 24 40 42'
+    n2 = n1.split()
+    l = 0
+
+    for a in nums:
+        c = ''.join(a)
+        s = []
+
+        if c.count('4') == 1 and c[0] != '0' and (sum(map(int, list(c))) % 2) == 0:
+            for x in n2:
+                if x in c:
+                    s.append(x)
+                if not s:
+                    l += 1
+
+    print(l)
