@@ -96,3 +96,23 @@ for n1 in nums:
             k+=1
 print(k)
 ```
+
+#### № 14
+
+1. 
+2. 
+3.
+4. 
+
+```python
+a = '0123456789abcde'
+
+for x in a:
+    f = int(f'123{x}5', 15) + int(f'1{x}233', 15)
+    if f % 14 == 0:
+        print(f // 14, x)
+        break
+```
+
+
+
