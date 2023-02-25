@@ -132,6 +132,79 @@ for x in a:
 6. Выходим из одного цикла и переходим к следующей программе
 
 
+#### №24
+```python
+with open('24.txt') as f:
+    s = f.readline().replace('C','S').replace('D','S').replace('F','S')
+    s = s.replace('A','G').replace('O','G')
+    s = s.replace('SG','*')
+    k = kmax = 0
+    for i in s:
+        if i == '*'
+            k += 1
+            kmax = max(k,kmax)
+        else: k = 0
+print(kmax)
+```
+
+#### №25
+```python
+
+from operator import itemgetter
+def func25(num):
+    if int(num) % 2023 == 0:
+        t = int(num) // 2023
+        ig.append(num)
+        igt.append(t)
+
+ig = []
+igt = []
+
+for i in range(10):
+  for y in range(1000000):
+      num = '1' + str(i) + '21394'
+      func25(num)
+
+      num = '1' + str(i) + '2139' + str(y) + '4'
+      if int(num) > 10**10: break
+      func25()
+
+ig1 = list(zip(ig, igt))
+print(*ig1)
+print(sorted(ig1, key = itemgetter(1)))
+for i in range(2023, 10**10, 2023):
+    num = str(i)
+    if num[0] == '1' and num[2:6] == '2139' and num[-1] == '4':
+        print(i, i // 2023)
+
+
+```
+
+
+#### №26
+```python
+with open('26.txt') as f:
+    data = [int(x) for x in f]
+    s = sorted(s[1:], reverse = True)
+    k, m = 1, s[0]
+
+    for i in range(1, len(s)):
+        if s[i] + 3 <= m:
+            m = s[i]
+            k += 1
+print(k, m)
+
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
