@@ -201,9 +201,25 @@ print(k, m)
 ```
 
 
+#### №27
+```python
+with open('27-A.txt', 'r') as f:
+    a = [int(x) for x in f]
+    a.pop(0)
 
+    cost = 0
+    s = 10
 
+    if len(a) % 2 == 0:
+        for i in range(10):
+            cost += a[i]*i
+        for i in range(10, 20):
+            cost += a[i]*s
+            s -= 1
 
+print(cost)
+
+```
 
 
 
